@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(37, 177, 177);
+}
+.contain{
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(244, 31, 31);
+    top: 50%;
+    left: 35%;
+    font-size: 80px;
+}
